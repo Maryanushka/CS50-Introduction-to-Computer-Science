@@ -1,0 +1,4 @@
+0. build a table corresponding to the data we have received from the user
+1. fill the cells with numbers last "-"
+2. checking the possibility of a move, if the truth we change cells in places
+3. chek if all numbers are arranged in ascending order if true - you won !
